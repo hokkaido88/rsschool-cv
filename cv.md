@@ -11,7 +11,7 @@
 ### About Me
 HI, My name is Denis, I am 37 years old, I work as a manager in a department related to industrial automation.\
 My work is related to programming used in industrial controllers (PLC) and SCADA.\
-~~ I believe that I will become a full stack developer. ~~\
+~~I believe that I will become a full stack developer.~~\
 No. **I am an aspiring full stack developer**, no matter what.
 
 > "The following picture emerges from numerous studies: whatever the field,\
