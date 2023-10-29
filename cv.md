@@ -50,12 +50,12 @@ function evenOrOdd(number) {
  - first year student at Rolling Scopes School
  - [my first project](https://hokkaido88.github.io/rsschool-cv/cv)
 
- ### Education
+### Education
 
  - Academy of Management, Minsk, economist-manager
  - IIT BSUIR Minsk, engineer - programmer
 
- ### English Language
+### English Language
 
  My current level of English is A2 (C1 in progress).\
  I am learning English parallel to programming.\
