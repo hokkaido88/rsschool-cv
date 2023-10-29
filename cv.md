@@ -7,7 +7,9 @@
 - **Location**: [Mozyr](https://maps.app.goo.gl/ErzCgcSSzLrC8ZVP9), Belarus
 - **Telegram**: [@hokkaido88](https://t.me/hokkaido88)
 - **Discord** : [hokkaido88](https://discordapp.com/users/584283752293859348)
---- 
+
+---
+
 ### About Me
 HI, My name is Denis, I am 37 years old, I work as a manager in a department related to industrial automation.\
 My work is related to programming used in industrial controllers (PLC) and SCADA.\
@@ -21,12 +23,15 @@ Neurologist Daniel J. Levitin
 Time is running out ...
 
 ---
+
 ### Skills
 - HTML
 - CSS
 - JS
 - Git, GitHub
+
 ---
+
 ### Code Examples
 
 Even or Odd
