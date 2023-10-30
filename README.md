@@ -1,1 +1,1 @@
-https://hokkaido88.github.io/rsschool-cv/cv
+<https://hokkaido88.github.io/rsschool-cv/cv>
