@@ -1,0 +1,33 @@
+
+
+  html{
+    box-sizing: border-box;
+    background-color: #c0f8c6;
+    font-size: 24px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  blockquote {
+    margin: 0;
+    max-width: 1100px;
+  }
+  
+  blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+  }
+  
+  blockquote p::before {
+    content: '\201C';
+  }
+  
+  blockquote p::after {
+    content: '\201D';
+  }
+  code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+  }
